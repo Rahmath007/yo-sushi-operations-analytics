@@ -34,6 +34,16 @@ Business Recommendations
 
 ---
 
+## Key Results
+
+- Analysed 10,000 restaurant transactions across 4 UK branches
+- Identified Birmingham Selfridges as top-performing branch (£48k revenue)
+- Found Sushi generated the highest category revenue (£40k)
+- Determined Dinner and Lunch periods drive over 90% of sales
+- Built interactive Power BI dashboard with dynamic DAX measures and filters
+
+---
+
 ## 🐍 Python Analysis
 
 Python was used for exploratory data analysis (EDA) and data validation using Pandas and Matplotlib.
@@ -134,6 +144,12 @@ A `LAG()` window function was used to compute MoM revenue change across the year
 - Excel — Pivot Tables, Pivot Charts and dashboarding
 - Power BI — Interactive dashboards and DAX measures
 - DAX — Dynamic KPIs and dashboard calculations
+- DAX measures for Revenue
+- DAX measures for Orders
+- Average Order Value (AOV)
+- Dynamic Top Branch calculation
+- Dynamic Top Category calculation
+- Interactive branch and category filtering
 
 ---
 
